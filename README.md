@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TwistedRobin
-- 👀 I’m interested in coding,tech, and space!
-- 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on anything I can get tips on!
+- 👀 I’m interested in programming, software development, and space!
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking for anything I can get tips on!
 - 📫 How to reach me robinrobinson0509@yahoo.com
 
 <!---
